@@ -24,5 +24,3 @@ This project demonstrates JavaScript object-oriented programming (OOP) concepts 
 - Efficient memory usage via prototype-based method sharing.
 - The advantages of ES6 classes over constructor functions.
 - The importance of method overriding in extending functionality.
-
----
