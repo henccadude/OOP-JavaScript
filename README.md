@@ -1,4 +1,4 @@
-# JavaScript OOP
+# JavaScript OOP practise
 
 This project demonstrates JavaScript object-oriented programming (OOP) concepts using **constructor functions**, **ES6 classes**, and **prototype-based inheritance**.
 
